@@ -542,3 +542,11 @@ yarl==1.18.3
 yellowbrick==1.5
 yfinance==0.2.50
 zipp==3.21.0
+streamlit==1.41.1
+pydeck==0.9.1
+pygments==2.15.0
+pyparsing==3.0.9
+python-dateutil==2.8.2
+python-json-logger==2.0.4
+pytz==2023.3
+
